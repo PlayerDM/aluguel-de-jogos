@@ -4,7 +4,7 @@ Este é o repositório para o projeto desenvolvido durante as aulas de lógica d
 
 ## Descrição
 
-O projeto consiste em um aplicativo de fachada para que a pessoa alugue jogos
+O projeto consiste em um aplicativo de fachada para que o usuário alugue jogos.
 
 ## Estrutura do Projeto
 
